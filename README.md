@@ -8,6 +8,8 @@ A mycroservices based enviroment to handle messages from the client
 ## Client
 A BLazor App that acts as a web client for the chat app
 
+# Porpuse
+ The porpusen of this project is to demonstrate technical skills in development and architecture of modern systems aplications
 # Tech stack
 - .NET 7
 - WebApi
